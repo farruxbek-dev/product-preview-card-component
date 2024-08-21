@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 30px;
+  background-color: rgb(242,233,226);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  margin: 0;
+}
